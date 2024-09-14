@@ -2,7 +2,7 @@ import { FacebookIcon,InstagramIcon,XIcon } from "../../routes";
 
 export function ContactFormComponent(){
     return (
-        <section id="contact" className="py-12 bg-gray-200 text-black h-screen">
+        <section id="contact" className="py-12 bg-gray-200 text-black h-auto">
           <div className="w-full h-[60px] bg-blue-500 flex flex-row justify-center items-center gap-12 ">
             <FacebookIcon size={25} color="white" className="hover:text-gray-300 hover:scale-150 hover:ease-out duration-300"/>
             <InstagramIcon size={25} color="white" className="hover:text-gray-300 hover:scale-150 hover:ease-out duration-300"/>
