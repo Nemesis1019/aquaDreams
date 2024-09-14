@@ -1,0 +1,25 @@
+{
+   "comments_data":[ 
+
+        { "name": "Juan Pérez", 
+        "comment": "¡Excelente trabajo! La piscina quedó perfecta.", 
+        "image": "/assets/piscina_1.webp" 
+        },
+        
+        { "name": "María Gómez", 
+        "comment": "Excelente atención y profesionalismo.", 
+        "image": "/assets/piscina_4.webp" 
+        }
+    ],
+    "services":[
+        { "name": "Diseño Personalizado" ,"description":"Creamos diseños únicos adaptados a tus gustos y necesidades, desde formas libres hasta opciones tradicionales."},
+        { "name": "Construcción de Piscinas", "description":" Construimos piscinas de alta calidad, asegurando durabilidad y estética según tus especificaciones."},
+        { "name": "Remodelación","description":"Renovamos y actualizamos tu piscina existente para mejorar su apariencia y funcionalidad."},
+        { "name": "Entre otros","description":"Ofrecemos una variedad de servicios adicionales, incluyendo mantenimiento y mejoras personalizadas."}
+    ],
+    "text":[
+        {"description1":"aquaDreams nació hace 10 años con la visión de transformar los sueños de nuestros clientes en realidades acuáticas excepcionales. Fundada por un equipo apasionado por el diseño y la construcción de piscinas, comenzamos como un pequeño estudio de diseño y, gracias a nuestra dedicación y creatividad, hemos crecido hasta convertirnos en líderes en el mercado. "},
+        {"description2":" Te ayudaremos a seleccionar una piscina que se ajuste a tus necesidades y presupuesto. Elige entre cientos de diseños comprobados o, si lo prefieres, diseñaremos una piscina tan única como tú. Con especial atención a los detalles, aquaDreams creará un nuevo y resplandeciente ambiente en tu propio patio, con cabañas,fuentes, spas y jacuzzis, cercas, senderos y muchas otras opciones. Te mostraremos cómo planificar tu piscina para disfrutarla al máximo, aprovechando al máximo la luz solar disponible,integrando de manera armoniosa el diseño de la piscina con la arquitectura de tu hogar."}
+    ]
+
+}
