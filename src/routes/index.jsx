@@ -6,7 +6,7 @@ import { FaXTwitter as XIcon } from "react-icons/fa6";
 import { ContactFormComponent } from "../components/ContactFormComponent";
 import { CommentsComponent } from "../components/CommentsComponent";
 import { ServicesDescriptionComponent } from "../components/ServicesDescriptionComponent";
-import { Navbar } from "../components/NavBar";
+import { Navbar } from "../components/Navbar";
 import { GalleryComponent } from "../components/GalleryComponent";
 
 import { Home } from "../pages/Home";
